@@ -6,8 +6,8 @@
 Library/
 Temp/
 Obj/
-Build/
-Builds/
+# Build/
+# Builds/
 Logs/
 UserSettings/
 MemoryCaptures/
@@ -47,7 +47,7 @@ ExportedObj/
 *.orig
 
 # ========== BUILD OUTPUTS ==========
-*.apk
+# *.apk
 *.aab
 *.unitypackage
 
