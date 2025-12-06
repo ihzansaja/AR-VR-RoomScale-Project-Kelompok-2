@@ -52,7 +52,7 @@ ExportedObj/
 *.unitypackage
 
 # ========== VISUAL STUDIO ==========
-.vs/
+.vs/ 
 .vscode/
 *.DotSettings
 *.DotSettings.user
